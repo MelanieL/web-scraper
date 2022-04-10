@@ -11,3 +11,7 @@ To install nodemon (globally): `npm i nodemon -g`
 To run the script from the terminal: `npm run start`
 
 Script: `"start": "nodemon index.js"`
+
+## Other Notes
+
+In this example I'm scraping a site that I made in 2017.
